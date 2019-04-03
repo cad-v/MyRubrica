@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            xmlns:tools="http://schemas.android.com/tools" android:id="@+id/navgraph"
+            app:startDestination="@id/contattiFragment4">
+    <fragment android:id="@+id/contattiFragment4" android:name="com.example.myrubrica.ContattiFragment"
+              android:label="fragment_contatti" tools:layout="@layout/fragment_contatti"/>
+</navigation>
